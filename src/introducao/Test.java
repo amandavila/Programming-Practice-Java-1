@@ -1,4 +1,4 @@
-package javacore;
+package introducao;
 
 public class Test {
 
