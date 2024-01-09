@@ -7,5 +7,6 @@ public class TestGitHub {
         amanda.nome= "Amanda";
         amanda.genero='F';
         System.out.println(amanda);
+        System.out.println("finalizado");
     }
 }
